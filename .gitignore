@@ -1,0 +1,10 @@
+pom.xml
+pom.xml.asc
+*.jar
+*.class
+*.log
+/node_modules
+/.shadow-cljs
+/.m2
+/build
+/resources/public/js
